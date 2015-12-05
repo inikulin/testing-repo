@@ -1,0 +1,1 @@
+This repo is used for the testing of the [gulp-npm-publish](https://github.com/inikulin/gulp-npm-publish). Nothing interesting here.
