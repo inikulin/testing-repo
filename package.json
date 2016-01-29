@@ -1,4 +1,5 @@
 {
   "name": "testing-repo",
-  "version": "1.3.77"
+  "version": "1.3.77",
+  "files": ["lib"]
 }
